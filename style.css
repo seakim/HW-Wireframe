@@ -38,7 +38,7 @@ aside {
     /*  */
     float: right;
     width: 445px;
-    padding: 20px 0 310px 0;
+    padding: 20px 0 270px 0;
 }
 
 section {
@@ -57,7 +57,7 @@ article {
 footer {
     /*  */
     clear: both;
-    margin: 605px 0;
+    margin: 570px 0;
     color: red;
 }
 
